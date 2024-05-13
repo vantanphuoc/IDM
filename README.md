@@ -27,13 +27,13 @@ After that follow the below steps to activate it.
 
 * Right-click on the Windows start menu and select PowerShell or Terminal (Not CMD).
 * Copy-paste the below code and press enter
-*`iex(irm is.gd/idm_reset)`
+*iex(irm https://raw.githubusercontent.com/vantanphuoc/IDM/main/IAS.ps1)
 * You will see the activation options, follow the on-screen instructions.
 * That’s all.
 
 # Method 2 - Traditional
 
-* Download the file from [GitHub](https://github.com/lstprjct/IDM-Activation-Script/archive/refs/heads/main.zip)
+* Download the file from [GitHub]([[https://github.com/vantanphuoc/IDM/archive/refs/heads/main.zip])]
 * Right-click on the downloaded zip file and extract
 * In the extracted folder, run the file named `IAS.cmd`
 * You will see the activation options, and follow onscreen instructions.
