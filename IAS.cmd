@@ -7,11 +7,13 @@
 ::============================================================================
 ::
 ::   IDM Activation Script (IAS)
+::   "Create By Piash"
+::   ___________________________________________________ 
 ::
-::   Homepages: https://github.com/lstprjct/IDM-Activation-Script
-::              https://t.me/ModByPiash/5
-::
-::       Telegram: @Stripe_op
+::   Copy by @vantanphuoc
+::   Telegram: @vantanphuoc
+::   Github: https://github.com/vantanphuoc
+::   Homepages: https://github.com/vantanphuoc/IDM
 ::
 ::============================================================================
 
@@ -372,9 +374,9 @@ echo:
 echo:
 call :_color2 %_White% "             " %_Green% "Create By Piash"
 echo:            ___________________________________________________ 
-echo:
-echo:               Telegram: @ModByPiash
-echo:               Github: https://github.com/lstprjct
+echo:               Copy by @vantanphuoc
+echo:               Telegram: @vantanphuoc
+echo:               Github: https://github.com/vantanphuoc
 echo:            ___________________________________________________ 
 echo:                                                               
 echo:               [1] Activate
