@@ -33,7 +33,7 @@ After that follow the below steps to activate it.
 
 # Method 2 - Traditional
 
-* Download the file from [GitHub]([[https://github.com/vantanphuoc/IDM/archive/refs/heads/main.zip])]
+* Download the file from https://github.com/vantanphuoc/IDM/archive/refs/heads/main.zip
 * Right-click on the downloaded zip file and extract
 * In the extracted folder, run the file named `IAS.cmd`
 * You will see the activation options, and follow onscreen instructions.
